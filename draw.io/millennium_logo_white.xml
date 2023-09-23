@@ -1,0 +1,33 @@
+<shape h="688" w="1053" aspect="variable" strokewidth="inherit">
+  <background>
+  </background>
+  <foreground>
+    <strokecolor color="#ffffff"/>
+    <fillcolor color="#ffffff"/>
+
+    <path>
+      <move x="0" y="0"/>
+      <line x="605" y="0"/>
+      <line x="199" y="688"/>
+      <line x="88" y="552"/>
+      <line x="303" y="173"/>
+      <line x="139" y="173"/>
+      <close/>
+    </path>
+    <fillstroke/>
+
+    <path>
+      <move x="693" y="0"/>
+      <line x="1053" y="0"/>
+      <line x="1053" y="173"/>
+      <line x="758" y="688"/>
+      <line x="647" y="557"/>
+      <line x="869" y="168"/>
+      <line x="783" y="168"/>
+      <line x="474" y="684"/>
+      <line x="367" y="552"/>
+      <close/>
+    </path>
+    <fillstroke/>
+  </foreground>
+</shape>
